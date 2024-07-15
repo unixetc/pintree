@@ -1864,12 +1864,6 @@
   {
     "type": "folder",
     "addDate": 1715044126068,
-    "title": "其他收藏夹",
-    "children": []
-  },
-  {
-    "type": "folder",
-    "addDate": 1715044126068,
     "title": "移动收藏夹",
     "children": [
       {
@@ -2139,11 +2133,5 @@
         "url": "https://zikin.org/"
       }
     ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1721004242231,
-    "title": "已删除收藏夹",
-    "children": []
   }
 ]
