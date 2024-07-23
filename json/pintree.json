@@ -174,6 +174,13 @@
                 "title": "杨二 - Machine repeats,Human creates.",
                 "icon": "https://logo.clearbit.com/yangerxiao.com",
                 "url": "https://yangerxiao.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721727482137,
+                "title": "Baoshuo (@renbaoshuo)",
+                "icon": "https://logo.clearbit.com/baoshuo.ren",
+                "url": "https://baoshuo.ren/"
               }
             ]
           },
@@ -265,6 +272,13 @@
                 "title": "Launchpad - Spaceship",
                 "icon": "https://logo.clearbit.com/www.spaceship.com",
                 "url": "https://www.spaceship.com/launchpad/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721638080749,
+                "title": "Buy a domain cheaper, SSL, web hosting, monitoring. Register domain on Regery",
+                "icon": "https://logo.clearbit.com/regery.com",
+                "url": "https://regery.com/en"
               }
             ]
           },
@@ -713,13 +727,6 @@
                 "title": "Google站长",
                 "icon": "https://logo.clearbit.com/search.google.com",
                 "url": "https://search.google.com/search-console"
-              },
-              {
-                "type": "link",
-                "addDate": 1717399692209,
-                "title": "Google Analytics",
-                "icon": "https://logo.clearbit.com/analytics.google.com",
-                "url": "https://analytics.google.com/"
               }
             ]
           },
@@ -1688,6 +1695,13 @@
             "title": "NetCareCloud (中国站)",
             "icon": "https://logo.clearbit.com/netcare.huawei.com",
             "url": "https://netcare.huawei.com/p/netcare/new.html#/iframe/iframe-page/%2Fadc-web%2Fui%2Fstandalone%2Findex.html%23%2Fspl2%2Fams_task%2Ftask_work_handle%3Ftask_id=RO2024060700823&title=%25E6%2596%25B0%25E6%25A0%2587%25E7%25AD%25BE&title_en=New%2520Label"
+          },
+          {
+            "type": "link",
+            "addDate": 1721638014773,
+            "title": "OI Wiki - OI Wiki",
+            "icon": "https://logo.clearbit.com/oi-wiki.com",
+            "url": "http://oi-wiki.com/"
           }
         ]
       },
